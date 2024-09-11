@@ -67,3 +67,8 @@ assert(totalLiquidity >= 0);
   If not, it reverts the transaction using revert().
   The function also ensures the pool’s total liquidity does not go below zero using assert().
 
+### Author 
+- Charles Finni
+### License
+- The software is unLicensed , feel free to contribute to the contract.
+
